@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Ropa+Sans');
+
+body{
+	background-color:#B1E4D5;
+	margin:0;
+	font-family: 'Ropa Sans', sans-serif;
+}
+h1{
+	color:#3364B0;
+	font-size:300%;
+	font-family: 'Pacifico', cursive;
+	margin-left:10vw;
+}
+h1>span{
+font-family: 'Ropa Sans', sans-serif;}
+p{margin-left:10vw;
+  background-color:white;	
+}
+a{
+text-decoration: none;
+color:white;
+}
+a:hover{color:white;}
+
+li{ list-style-type: none;
+    font-family: 'Ropa Sans', sans-serif;
+    }
+
+ul{ position:absolute;
+	bottom:0;
+	left:0;
+	width:80vw;
+	font-family: 'Pacifico', cursive;
+	color:white;
+	background-color:rgba(51, 100, 176,0.2);
+padding:2vw 10vw;
+
+}
+.instagram{
+    color:rgba(51, 100, 176, 0.9);
+
+}
+.twitter{
+  color:rgba(51, 100, 176,0.7);
+	
+}
+.codepen{
+    color:rgba(51, 100, 176, 0.5);
+}
